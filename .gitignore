@@ -1,1 +1,3 @@
+.venv
 yelp_academic_dataset_review.json
+yelp_reviews_dropped_columns.csv
