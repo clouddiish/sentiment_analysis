@@ -1,2 +1,5 @@
 .venv
-data/
+data/yelp_academic_dataset_review.json
+data/70_30/
+data/80_20/
+data/yelp_reviews_cleaned.csv
