@@ -1,3 +1,2 @@
 .venv
-yelp_academic_dataset_review.json
-data/*
+data/
